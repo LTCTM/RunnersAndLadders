@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RunnersAndLadders", "RunnersAndLadders\RunnersAndLadders.pyproj", "{91526A98-0787-4905-825B-AA2474B3888E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91526A98-0787-4905-825B-AA2474B3888E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91526A98-0787-4905-825B-AA2474B3888E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88808DF5-04E6-4169-ADE0-387BDA2BC981}
+	EndGlobalSection
+EndGlobal
